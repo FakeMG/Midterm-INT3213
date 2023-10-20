@@ -14,3 +14,5 @@ npm install big-integer
 
 Bước 5: Tiến hành chạy file: 
 node Elliptic-160bits.js
+
+![Ảnh minh hoạ](./Elliptic-160bits.png)
