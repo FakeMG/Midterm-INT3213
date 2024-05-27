@@ -98,7 +98,7 @@ function addition(m, n, a, p) {
     return { x: x3, y: y3, isFinite: true }
 }
 
-// Hàm tính căn bậc 2
+// Hàm tính căn bậc 2 Newton-Raphson
 function sqrt(p) {
   if (p.equals(0) || p.equals(1)) {
     return p;
